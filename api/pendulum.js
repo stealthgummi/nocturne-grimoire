@@ -34,3 +34,4 @@ module.exports = async (req, res) => {
     res.end(JSON.stringify({ success: false, error: err.message }));
   }
 };
+
