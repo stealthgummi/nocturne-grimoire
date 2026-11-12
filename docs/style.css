@@ -779,3 +779,4 @@ h1, h2, h3 {
   .synastry-score-grid, .num-grid { grid-template-columns: repeat(2, 1fr); }
   .sign-grid { grid-template-columns: repeat(4, 1fr); }
 }
+

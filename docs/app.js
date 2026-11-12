@@ -783,3 +783,4 @@ function initGrimoire() {
 
   renderEntries();
 }
+
